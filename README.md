@@ -7,26 +7,26 @@
 </h1>
 
 <p align="center" style="color: #8b949e; font-size: 1.1em; margin: 8px 0 32px;">
-  Full-Stack Developer • TypeScript • Go • Clean Code
+  Python Backend Developer • FastAPI • Async • Scalable Systems
 </p>
 
 <!-- Короткое описание, 1–2 строки максимум -->
 <p align="center" style="color: #c9d1d9; max-width: 600px; margin: 0 auto 48px; line-height: 1.6;">
-  Crafting reliable systems. Currently building performant backends and elegant UIs. Open to 2026 internships.
+  Building high-performance APIs and reliable backends.  
+  FastAPI • Pydantic • PostgreSQL • Redis. Open to 2026 internships.
 </p>
 
-<!-- Технологии — только иконки, без текста, очень маленький размер -->
+<!-- Технологии — только иконки, маленький размер, dark theme -->
 <p align="center" style="margin: 32px 0 64px;">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,go,rust,postgres,docker&theme=dark" alt="stack" height="32"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,pydantic,sqlalchemy,postgres,redis,celery,docker,githubactions,alembic,uv,poetry,pytest&theme=dark&perline=8" alt="Python Backend Stack" height="32"/>
 </p>
 
-<!-- Pinned проекты — GitHub сам их красиво показывает в тёмной теме, просто оставь 4 самых сильных -->
-<!-- Если хочешь подпись под ними — можно добавить, но лучше без -->
+<!-- Pinned проекты — оставь 3–4 самых сильных, GitHub сам красиво отобразит в тёмной теме -->
 
 <p align="center" style="margin: 64px 0 32px; color: #8b949e; font-size: 0.95em;">
   → <a href="https://t.me/username" style="color: #00ff9d; text-decoration: none;">Telegram</a>  
   → <a href="https://linkedin.com/in/username" style="color: #00ff9d; text-decoration: none;">LinkedIn</a>  
-  → <a href="https://username.dev" style="color: #00ff9d; text-decoration: none;">username.dev</a>
+  <!-- если есть личный сайт — можно добавить → <a href="https://username.dev" style="color: #00ff9d; text-decoration: none;">username.dev</a> -->
 </p>
 
 <p align="center">
