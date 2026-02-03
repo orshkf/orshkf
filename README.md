@@ -7,7 +7,10 @@
 </p>
 
 <p align="center" style="margin: 32px 0 64px;">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,docker&theme=dark>
+  <img 
+    src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,docker&theme=dark&perline=8"  
+    height="32"
+  />
 </p>
 
 <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black"/></a>
